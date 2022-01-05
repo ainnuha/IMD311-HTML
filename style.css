@@ -1,0 +1,32 @@
+body
+ table
+    {
+        border-collapse: collapse;
+        width: 80%;
+    }
+    body
+   {
+    background-color: #F4E9B8;
+   }
+    td,th 
+    {
+        border: 2px solid beige;
+        text-align: center;
+        padding: 10px;
+    }
+    tr:nth-child(even)
+    {
+        background-color: khaki;
+    }
+    h1
+    {
+        text-align: center;
+        color: #AE9B7A ;
+        font-size: 50px;
+    }
+    h3
+    {
+    	text-align: center;
+    	color: black;
+    	font-size: 20px;
+    }
